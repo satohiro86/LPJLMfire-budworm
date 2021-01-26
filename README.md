@@ -1,3 +1,3 @@
 # LPJLMfire-budworm
 LPJLMfire with budworm module
-testing putting code on github by hiromitsu sato on Jan 26th, 2021
+resolved by deleting everything? I guess this is the change now.
